@@ -3,7 +3,7 @@
 A modern analytics dashboard to track, analyze, and optimize Facebook and Instagram ad campaigns.  
 Built for marketers, analysts, and product teams who want clear insights without noise.
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+![Dashboard Preview](https://github.com/pathak-07abhi/Future_DS_02/blob/052ef4da44743d42fbbb26083ef772e727a3fa8a/Future_DS_02.png)
 
 ---
 
